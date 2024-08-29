@@ -1,4 +1,4 @@
-function makeSimpleTransaction(quantity, pricePerDroid) {
+function makeTransaction(quantity, pricePerDroid) {
 
     const totalPrice = quantity * pricePerDroid;
     
